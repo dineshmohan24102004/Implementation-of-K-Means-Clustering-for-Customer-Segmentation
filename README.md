@@ -73,7 +73,9 @@ plt.title("Customer Segments")
 ```
 
 ## Output:
+## data.head()
 ![image](https://github.com/dineshmohan24102004/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119478475/bafa164d-581e-438e-8cb9-1eaa02368fd7)
+## data.info()
 ![image](https://github.com/dineshmohan24102004/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119478475/db93ff6e-0df0-4e39-95da-1644ee02bdca)
 
 ![image](https://github.com/dineshmohan24102004/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119478475/623a5727-6b3c-4e2a-aec3-3d21a19b966c)
